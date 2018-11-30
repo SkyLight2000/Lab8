@@ -44,7 +44,7 @@
             this.btnAddAnimal.TabIndex = 1;
             this.btnAddAnimal.Text = "Добавить животное";
             this.btnAddAnimal.UseVisualStyleBackColor = true;
-            this.btnAddAnimal.Click += new System.EventHandler(this.btnAddAnimal_Click);
+            this.btnAddAnimal.Click += new System.EventHandler(this.BtnAddAnimal_Click);
             // 
             // btnClose
             // 
@@ -54,7 +54,7 @@
             this.btnClose.TabIndex = 2;
             this.btnClose.Text = "Закрыть";
             this.btnClose.UseVisualStyleBackColor = true;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            this.btnClose.Click += new System.EventHandler(this.BtnClose_Click);
             // 
             // listBox1
             // 

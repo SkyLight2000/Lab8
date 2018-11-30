@@ -41,7 +41,6 @@ namespace Lab_8
                 else
                     throw new InvalidWeightException();
             }
-
         }
 
         public override string ToString()

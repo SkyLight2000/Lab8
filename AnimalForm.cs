@@ -20,7 +20,7 @@ namespace Lab_8
             InitializeComponent();
         }
 
-        private void btnOk_Click(object sender, EventArgs e)
+        private void BtnOk_Click(object sender, EventArgs e)
         {
             try
             {
@@ -39,7 +39,7 @@ namespace Lab_8
             }
         }
 
-        private void btnCancel_Click(object sender, EventArgs e)
+        private void BtnCancel_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
         }
