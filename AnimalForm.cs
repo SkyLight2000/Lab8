@@ -20,11 +20,6 @@ namespace Lab_8
             InitializeComponent();
         }
 
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnOk_Click(object sender, EventArgs e)
         {
             try
